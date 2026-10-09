@@ -11,6 +11,6 @@
      "Continue to survey" bar slides up. Same value for both versions.
 */
 window.STUDY = {
-  surveyUrl: "",
+  surveyUrl: "https://docs.google.com/forms/d/e/1FAIpQLScXWSwkUsr0Ea23RHVha09rzrXIIzzQPApiwBwrYDvbC4suTw/viewform?usp=pp_url&entry.467314199=",
   surveyDelaySeconds: 20
 };
